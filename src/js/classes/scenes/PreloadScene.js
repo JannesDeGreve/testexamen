@@ -1,17 +1,5 @@
-import './../../../assets/img/bullet.png';
-import './../../../assets/img/aimCursor.png';
-
-import './../../../assets/img/zombiespritesheet.png';
-import './../../../assets/img/zombieattack.png';
-
-import './../../../assets/img/playerwalking.png';
-
-import './../../../assets/img/playeridle.png';
-
-import './../../../assets/img/background.jpg';
-import './../../../assets/img/vignette.png';
-import './../../../assets/img/ammopack.png';
-import './../../../assets/img/hppack.png';
+import './../../../assets/emoticons.png';
+import './../../../assets/emoticons.json';
 
 export default class PreloadScene extends Phaser.Scene {
   constructor() {

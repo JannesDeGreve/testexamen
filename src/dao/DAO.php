@@ -4,7 +4,7 @@ class DAO {
 
   // Properties
   private static $dbHost = "localhost";
-	private static $dbName = "highScores";
+	private static $dbName = "highScoresTestExamen";
 	private static $dbUser = "score";
 	private static $dbPass = "score";
 	private static $sharedPDO;
